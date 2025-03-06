@@ -1,61 +1,76 @@
+Here’s an updated version with a focus on what your team is capable of doing, highlighting your open-source contributions:
+
+---
+
 # Dilians IT Ltd.
 
-Welcome to Dilians IT Ltd.! We are a passionate team of professionals dedicated to delivering innovative solutions in the fields of **Web Development, AI/ML, Mobile Applications, IoT**, and **UI/UX** design.
+Welcome to Dilians IT Ltd.! We are a passionate team of professionals driven by innovation and dedicated to delivering solutions in **Web Development, AI/ML**, and **UI/UX** design. Our primary focus is on contributing to the open-source community by building meaningful projects and software that benefit all.
 
 ## About Us
 
-Dilians IT Ltd. was founded with a vision to provide cutting-edge technology solutions tailored to meet the needs of our clients. We specialize in:
-- **Web Development & Web Applications**  
-- **AI, Machine Learning, Deep Learning, and Computer Vision**  
-- **Mobile Applications**  
-- **IoT (Internet of Things)**, with integration into AI  
+Dilians IT Ltd. was founded to provide customized technology solutions that meet the needs of businesses and individuals. We focus on delivering the following services:
+- **Web Development**: Crafting responsive and dynamic websites, and developing web applications.
+- **AI/ML Solutions**: Implementing machine learning models, AI-driven analytics, and intelligent automation.
+- **UI/UX Design**: Creating user-friendly, intuitive, and aesthetically pleasing designs.
+- **Open-Source Contributions**: We are committed to building open-source software, tools, and libraries to help the broader tech community.
 
-Our goal is to push the boundaries of technology and offer smart solutions for businesses and individuals across the globe.
+Our goal is to push the boundaries of technology while delivering valuable, high-quality products and contributing to open-source projects that benefit everyone.
 
 ## Our Team
 
-- **HR and SQA:** Afsana Ahmed Ema  
-- **ML Specialist:** Shawon Mandal  
-- **AI/ML Specialist:** Shafin Kader Tamim  
-- **Web Developer and AI/ML Specialist:** Tamim Ahasan Rijon  
+- **Project Manager:** Afsana Ahmed Ema  
+  - Responsible for managing project timelines, resources, and overall coordination between teams and clients.
+  
+- **Software Engineer (QA):** Tamim Ahasan Rijon  
+  - Ensures the quality of software through rigorous testing, bug tracking, and providing feedback for improvement.
+  
 - **Full Stack Developer:** Md. Sabilar Rahman  
-- **PERN Developer:** Sabilar Rahman  
+  - Specializes in both front-end and back-end web development, ensuring seamless functionality across applications.
 
-We are a diverse team of passionate individuals from **Daffodil International University (DIU)**, working together to build impactful products.
+- **UI/UX Designer:** Shawon Mandal  
+  - Focuses on designing user-centric interfaces and enhancing user experience through thoughtful design and interaction patterns.
 
-## Our Services
+- **AI/ML Developer:** Shafin Kader Tamim  
+  - Works on developing AI and ML models, including data-driven analysis, predictive models, and automation solutions.
 
-We offer a range of services to meet your needs:
-- **Web Development**: Dynamic and responsive websites, web applications, and API integrations.
-- **AI/ML Solutions**: Smart algorithms, data analysis, and deep learning models.
-- **Mobile App Development**: High-quality apps for Android and iOS using modern frameworks.
-- **IoT Solutions**: Integration of IoT with AI for smart devices and systems.
-- **UI/UX Design**: User-centered designs with a focus on usability and aesthetics.
+- **Data Analytical Engineer:** Shaun Mia  
+  - Specializes in data analysis, visualization, and reporting, ensuring actionable insights for better decision-making.
 
-## Technologies We Use
+## What We Do
 
-We work with a wide range of technologies to deliver the best results for our clients:
-- **Web Development**: HTML, CSS, JavaScript, React, Vue.js, Laravel, Node.js, PHP
-- **AI/ML**: Python, TensorFlow, PyTorch, Scikit-learn, OpenCV
-- **Mobile Development**: React Native, Flutter, Java, Kotlin, Swift
-- **IoT**: MQTT, Zigbee, LoRa, NodeMCU, Raspberry Pi
+While our expertise lies across various domains, here’s a more focused list of our capabilities:
 
-## How We Work
+- **Web Development**: 
+  - Building responsive websites and web applications using modern technologies like React, Laravel, Node.js, and PHP.
+  
+- **AI/ML Solutions**: 
+  - Developing machine learning models, implementing predictive analytics, and automating workflows.
+  
+- **UI/UX Design**: 
+  - Designing intuitive, responsive interfaces that offer the best user experience.
 
-At Dilians IT, we follow an agile development methodology that ensures flexibility, continuous feedback, and high-quality outputs. We work closely with clients to understand their requirements and deliver custom solutions that align with their vision.
+- **Data Analytics**: 
+  - Data-driven decision-making through data analysis, reporting, and visualizations, including tools like Power BI and SQL.
 
 ## Open-Source Contributions
 
-We believe in contributing to the open-source community and working on projects that benefit everyone. Dilians IT is committed to building, supporting, and contributing to open-source software and projects, aiming to make technology accessible to all.
+We are passionate about open-source development and actively contribute to building useful projects for the community. Our goal is to help make technology more accessible to everyone and provide solutions that anyone can benefit from.
+
+## Technologies We Use
+
+- **Web Development**: React, Vue.js, Laravel, Node.js, PHP
+- **AI/ML**: Python, TensorFlow, PyTorch, Scikit-learn, OpenCV
+- **UI/UX Design**: Figma, Adobe XD, Sketch
+- **Data Analytics**: Power BI, Excel, SQL, Python
 
 ## Get in Touch
 
-Feel free to reach out to us for any project inquiries, partnerships, or collaborations.
+Feel free to reach out to us for project inquiries, partnerships, or collaborations.
 
 - Email: [diliansit.ltd@gmail.com](mailto:diliansit.ltd@gmail.com)  
 - LinkedIn: [Dilians IT](https://www.linkedin.com/company/diliansit)
 
-We are always open to discussing new projects, technologies, and potential collaborations. Let’s work together to create something amazing!
+Let’s work together to create something impactful!
 
 ## License
 
@@ -63,5 +78,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Thanks to the team at Daffodil International University for inspiring us.
-- Special thanks to our clients and contributors for their continuous support.
+- Thanks to Daffodil International University for their continued support.
+- Special thanks to our clients and contributors for their collaboration.
+
+---
+
+This version reflects a clearer focus on what your team excels at and highlights the open-source contributions that are central to your company. Let me know if any other adjustments are needed!
