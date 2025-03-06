@@ -19,6 +19,7 @@ Our goal is to push the boundaries of technology and offer smart solutions for b
 - **AI/ML Specialist:** Shafin Kader Tamim  
 - **Web Developer and AI/ML Specialist:** Tamim Ahasan Rijon  
 - **Full Stack Developer:** Md. Sabilar Rahman  
+- **PERN Developer:** Sabilar Rahman  
 
 We are a diverse team of passionate individuals from **Daffodil International University (DIU)**, working together to build impactful products.
 
@@ -42,6 +43,10 @@ We work with a wide range of technologies to deliver the best results for our cl
 ## How We Work
 
 At Dilians IT, we follow an agile development methodology that ensures flexibility, continuous feedback, and high-quality outputs. We work closely with clients to understand their requirements and deliver custom solutions that align with their vision.
+
+## Open-Source Contributions
+
+We believe in contributing to the open-source community and working on projects that benefit everyone. Dilians IT is committed to building, supporting, and contributing to open-source software and projects, aiming to make technology accessible to all.
 
 ## Get in Touch
 
