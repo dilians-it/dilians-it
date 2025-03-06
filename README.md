@@ -1,7 +1,3 @@
-Here’s an updated version with a focus on what your team is capable of doing, highlighting your open-source contributions:
-
----
-
 # Dilians IT Ltd.
 
 Welcome to Dilians IT Ltd.! We are a passionate team of professionals driven by innovation and dedicated to delivering solutions in **Web Development, AI/ML**, and **UI/UX** design. Our primary focus is on contributing to the open-source community by building meaningful projects and software that benefit all.
