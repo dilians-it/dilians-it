@@ -63,7 +63,7 @@ We are passionate about open-source development and actively contribute to build
 Feel free to reach out to us for project inquiries, partnerships, or collaborations.
 
 - Email: [diliansit.ltd@gmail.com](mailto:diliansit.ltd@gmail.com)  
-- LinkedIn: [Dilians IT](https://www.linkedin.com/company/diliansit)
+- LinkedIn: [Dilians IT](https://www.linkedin.com/company/dilians-it)
 
 Let’s work together to create something impactful!
 
