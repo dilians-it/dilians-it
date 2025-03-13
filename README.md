@@ -1,6 +1,7 @@
-# Dilians IT Ltd.
+# Dilians IT
 
 Welcome to Dilians IT Ltd.! We are a passionate team of professionals driven by innovation and dedicated to delivering solutions in **Web Development, AI/ML**, and **UI/UX** design. We believe in creating impactful, open-source solutions and actively contributing to the global open-source community.
+
 ## About Us
 
 Dilians IT Ltd. was founded to provide customized technology solutions that meet the needs of businesses and individuals. We focus on delivering the following services:
