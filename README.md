@@ -4,7 +4,7 @@ Welcome to Dilians IT We are a passionate team of professionals driven by innova
 
 ## About Us
 
-Dilians IT Ltd. was founded to provide customized technology solutions that meet the needs of businesses and individuals. We focus on delivering the following services:
+Dilians IT was founded to provide customized technology solutions that meet the needs of businesses and individuals. We focus on delivering the following services:
 - **Web Development**: Crafting responsive and dynamic websites, and developing web applications.
 - **AI/ML Solutions**: Implementing machine learning models, AI-driven analytics, and intelligent automation.
 - **UI/UX Design**: Creating user-friendly, intuitive, and aesthetically pleasing designs.
