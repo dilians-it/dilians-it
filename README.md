@@ -36,16 +36,16 @@ Our goal is to push the boundaries of technology while delivering valuable, high
 
 While our expertise lies across various domains, here’s a more focused list of our capabilities:
 
-- **Web Development**: 
+- **Web Development**:
   - Building responsive websites and web applications using modern technologies like React, Laravel, Node.js, and PHP.
   
-- **AI/ML Solutions**: 
+- **AI/ML Solutions**:
   - Developing machine learning models, implementing predictive analytics, and automating workflows.
   
-- **UI/UX Design**: 
+- **UI/UX Design**:
   - Designing intuitive, responsive interfaces that offer the best user experience.
 
-- **Data Analytics**: 
+- **Data Analytics**:
   - Data-driven decision-making through data analysis, reporting, and visualizations, including tools like Power BI and SQL.
 
 ## Open-Source Contributions
@@ -63,6 +63,7 @@ We are passionate about open-source development and actively contribute to build
 
 Feel free to reach out to us for project inquiries, partnerships, or collaborations.
 
+- Website: [Dilians IT](https://dilians-it.netlify.app/)
 - Email: [diliansit.ltd@gmail.com](mailto:diliansit.ltd@gmail.com)  
 - LinkedIn: [Dilians IT](https://www.linkedin.com/company/dilians-it)
 
@@ -80,3 +81,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 This version reflects a clearer focus on what your team excels at and highlights the open-source contributions that are central to your company. Let me know if any other adjustments are needed!
+
